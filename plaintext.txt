@@ -1,0 +1,9 @@
+House-Prices-Advanced-Regression/
+│
+├── data/                   # train.csv and test.csv downloaded from Kaggle
+├── notebooks/              # Our .ipynb files (Analysis, Modeling)
+├── src/                    # .py files (Modularized functions)
+├── models/                 # Trained model files (.pkl, .h5)
+├── submissions/            # CSV files to be submitted to Kaggle
+├── README.md               # Project showcase
+└── requirements.txt        # Library addictions
